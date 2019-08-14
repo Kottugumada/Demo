@@ -1,0 +1,14 @@
+C:\demos\Comparer\bin\Debug\netcoreapp2.2\Comparer.deps.json
+C:\demos\Comparer\bin\Debug\netcoreapp2.2\Comparer.runtimeconfig.json
+C:\demos\Comparer\bin\Debug\netcoreapp2.2\Comparer.runtimeconfig.dev.json
+C:\demos\Comparer\bin\Debug\netcoreapp2.2\Comparer.dll
+C:\demos\Comparer\bin\Debug\netcoreapp2.2\Comparer.pdb
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.csprojAssemblyReference.cache
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.csproj.CoreCompileInputs.cache
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.RazorAssemblyInfo.cache
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.RazorAssemblyInfo.cs
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.AssemblyInfoInputs.cache
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.AssemblyInfo.cs
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.RazorTargetAssemblyInfo.cache
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.dll
+C:\demos\Comparer\obj\Debug\netcoreapp2.2\Comparer.pdb
